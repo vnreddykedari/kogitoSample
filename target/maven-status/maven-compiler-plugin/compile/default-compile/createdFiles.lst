@@ -1,0 +1,5 @@
+org\acme\CorsConfig.class
+org\acme\beans\OrderItem.class
+org\acme\KogitoApplication.class
+org\acme\services\OrderService.class
+org\acme\beans\Order.class

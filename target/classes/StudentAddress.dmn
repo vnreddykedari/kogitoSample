@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_9507A987-EF50-486F-B319-F84CE95A28FB" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_FB9E8060-5FC4-4961-8E53-CB9BE69BCFC8" name="StudentAddress" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_9507A987-EF50-486F-B319-F84CE95A28FB">
+  <dmn:extensionElements/>
+  <dmn:itemDefinition id="_BE23F4E1-EF6C-4E37-BC35-BFDE497E14C0" name="Address" isCollection="false">
+    <dmn:itemComponent id="_6175809C-E161-4EB0-900B-7999D35EC4AF" name="country" isCollection="false">
+      <dmn:typeRef>string</dmn:typeRef>
+    </dmn:itemComponent>
+    <dmn:itemComponent id="_6EF57D9B-BF21-41E2-A47F-AEDBFC28945E" name="state" isCollection="false">
+      <dmn:typeRef>string</dmn:typeRef>
+    </dmn:itemComponent>
+  </dmn:itemDefinition>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_3491EA98-F6EA-499C-82E3-7F120BCECFFB" name="DRG">
+      <di:extension>
+        <kie:ComponentsWidthsExtension/>
+      </di:extension>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</dmn:definitions>
