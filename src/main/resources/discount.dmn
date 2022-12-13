@@ -46,7 +46,7 @@
           <dmn:text>[20 .. 30]</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_3D0B5EB5-51D4-4091-96F5-D0799A4FD001">
-          <dmn:text>0.5</dmn:text>
+          <dmn:text>0.8</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
